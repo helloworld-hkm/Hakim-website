@@ -4,7 +4,7 @@
 
 oleh:hakim firman febrian
 
-link netlify [disini](https://nirmala.studio/).
+link website [disini](https://nirmala.studio/).
 
 ### Specs
 
